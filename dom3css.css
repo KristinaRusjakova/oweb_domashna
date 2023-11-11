@@ -1,0 +1,39 @@
+#container{
+    text-align: center;
+}
+
+h1{
+    font-size: x-large;
+    font-weight: bolder;
+    text-decoration: underline;
+    color: darkgreen;
+}
+
+#display{
+    font-size: 25px;
+    margin: 20px;
+}
+#input{
+    margin: 20px;
+}
+#pogodi{
+    padding: 10px 10px;
+    font-size: 15px;
+    color:orangered;
+    font-weight: bold;
+}
+#obidi{
+    font-size: 15px;
+    color: red;
+}
+
+.igrajpak{
+    text-align: center;
+    background-color: lightgreen;
+    color: darkgreen;
+}
+
+a{
+    color:darkgreen;
+    font-weight: bold;
+}
